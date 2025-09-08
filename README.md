@@ -50,10 +50,12 @@ Engine Result: tesSUCCESS
 Transaction Hash:
 48E782A9D90EA96673EB34941703C81AE24D03C9D247E3F4DB78F8ED49C5150C
 
-🔗 View on XRPL Explorer 🔗 [View on XRPL Explorer](https://testnet.xrpl.org/transactions/48E782A9D90EA96673EB34941703C81AE24D03C9D247E3F4DB78F8ED49C5150C/simple)
+🔗 View on XRPL Explorer 🔗 
+[View on XRPL Explorer](https://testnet.xrpl.org/transactions/48E782A9D90EA96673EB34941703C81AE24D03C9D247E3F4DB78F8ED49C5150C/simple)
 
 
-📸 Visual Record ![CHAINRAILS First Transaction](./CHAINRAILS%201st%20Transaction.png)
+📸 Visual Record 
+![CHAINRAILS First Transaction](./CHAINRAILS%201st%20Transaction.png)
 
 ✅ Transaction Confirmation
 
