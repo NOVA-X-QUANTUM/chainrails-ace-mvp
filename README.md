@@ -41,9 +41,6 @@ A symbolic moment — the rails went live at **1:23:11** (→ **123:11**) confir
 ### ✅ Transaction Confirmation  
 ![CHAINRAILS First Transaction](./CHAINRAILS%201st%20Transaction.png)
 
-### 🖤 Explorer Proof  
-![Explorer Confirmation](./4D69710E-B7AE-4A0A-B3A9-F8644C97BDF2.jpeg)
-
 ---
 
 ## 🌍 Legacy Declaration  
