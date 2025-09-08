@@ -143,3 +143,9 @@ vite.config.ts.timestamp-*
 ops/.env
 node_modules/
 dist/
+
+# local only
+.env
+ops/.env
+node_modules/
+dist/
