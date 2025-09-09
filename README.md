@@ -1,5 +1,5 @@
 # 🚆 chainrails-xrpl-mvp  
-**XRPL sovereign settlement rails MVP, by CHAINRAILS™️**
+**XRPL sovereign settlement rails MVP, by CHAINRAILS™**
 
 ---
 
@@ -16,13 +16,8 @@ It demonstrates:
 
 ---
 
-## ⚙️ Setup  
-
-### 1. Clone the repo  
-```bash
-git clone https://github.com/Nova1000x/chainrails-xrpl-mvp.git
-cd chainrails-xrpl-mvp
-
+# 🚆 CHAINRAILS™ Genesis  
+*XRPL-Native Autonomous Settlement Rails (MVP)*  
 
 ---
 
