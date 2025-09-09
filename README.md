@@ -1,5 +1,6 @@
-# 🚆 CHAINRAILS™ Genesis  
-*XRPL-Native Autonomous Settlement Rails (MVP)*  
+# 🚆 chainrails-xrpl-mvp  
+**XRPL sovereign settlement rails MVP, by CHAINRAILS™️**  
+
 
 ---
 
