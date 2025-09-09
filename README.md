@@ -1,5 +1,27 @@
 # 🚆 chainrails-xrpl-mvp  
-**XRPL sovereign settlement rails MVP, by CHAINRAILS™️**  
+**XRPL sovereign settlement rails MVP, by CHAINRAILS™️**
+
+---
+
+## 🌌 Overview  
+This repo contains the **minimum viable product (MVP)** of CHAINRAILS™ settlement rails,  
+implemented directly on the **XRP Ledger (XRPL Testnet)**.  
+
+It demonstrates:  
+- ✅ XRPL-native settlement flow (via Express + xrpl.js)  
+- ✅ Instant T+0 payments (devnet/testnet)  
+- ✅ Configurable via `.env` (XRPL endpoint + seed)  
+- ✅ Extensible architecture for **ACE (Autonomous Covenant Executor)** —  
+  an AI orchestrator to be integrated in **Phase 2**  
+
+---
+
+## ⚙️ Setup  
+
+### 1. Clone the repo  
+```bash
+git clone https://github.com/Nova1000x/chainrails-xrpl-mvp.git
+cd chainrails-xrpl-mvp
 
 
 ---
