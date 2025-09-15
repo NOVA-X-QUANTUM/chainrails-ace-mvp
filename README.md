@@ -70,4 +70,4 @@ From this moment forward, every transaction is laid upon the
 
 ---
 
-> **Next:** Phase 2 work lives here → [chainrails-phase-2](https://github.com/YOUR-USERNAME/chainrails-phase-2)
+> **Next:** Phase 2 work lives here → [chainrails-phase-2](https://github.com/NOVA-XQUANTUM/chainrails-phase-2)
