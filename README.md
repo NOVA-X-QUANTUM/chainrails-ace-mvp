@@ -68,3 +68,6 @@ on the XRPL Testnet.
 From this moment forward, every transaction is laid upon the  
 **foundation of 1:23:11 — unity, bridge, trinity, and destiny.**
 
+---
+
+> **Next:** Phase 2 work lives here → [chainrails-phase-2](https://github.com/YOUR-USERNAME/chainrails-phase-2)
